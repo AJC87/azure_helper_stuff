@@ -8,3 +8,4 @@ Useful productivity stuff for Azure
 5. AzCopy
 6. Create tagging policy/other policies see AZ-104 course
 7. Write some cmdlets
+9. Azure OpenAI Service
